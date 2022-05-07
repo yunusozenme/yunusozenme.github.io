@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://xisimply.dev/authors/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/categories/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/games/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/series/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/notes/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/weather/</loc>
+  </url><url>
+    <loc>https://xisimply.dev/tags/</loc>
+  </url>
+</urlset>
